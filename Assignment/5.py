@@ -13,7 +13,7 @@ class Number:
 
     def __init__(self, num1, num2):
         self.var1 = num1
-        self._var2= num2
+        self._var2 = num2
 
     #Declaration of a public member variable
     var1 = None
