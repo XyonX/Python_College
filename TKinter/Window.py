@@ -4,5 +4,9 @@ import tkinter as tk
 window = tk.Tk()
 
 
+Greeting = tk.Label(text="Hellow World ")
+Greeting.pack()
+
+
 window.mainloop()
 
